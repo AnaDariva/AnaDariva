@@ -9,6 +9,12 @@
     💻 Systems Analysis and Development Student<br>
     🌱 Currently learning <b>Java, HTML, CSS</b>, <b>SQL</b>, <b>Data Structures</b> and <b>React</b><br>
 </p>
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnaDariva&show_icons=true&theme=radical&count_private=true" alt="AnaDariva's GitHub Stats">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaDariva&layout=compact&theme=radical&langs_count=6" alt="Top Languages">
+</div>
 
 <h2 align="center">💻 Languages and Tools</h2>
 <p align="center">
