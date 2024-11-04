@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    💚💛💙From Brasil
-    😁 I'm a beginner, okay?<br>
+    💚💛💙From Brasil<br>
+    😁 I'm a beginner, okay??<br>
     💻 Systems Analysis and Development Student<br>
     🌱 Currently learning <b>Java, HTML, CSS</b>, <b>SQL and Data Structures</b><br>
 
