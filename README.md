@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-    💚💛💙From Brasil<br>
-    💻 Systems Analysis and Development Student<br>
-    🌱 Currently learning <b>Java, HTML, CSS</b>, <b>SQL and Data Structures</b><br>
+        From Brasil<br>
+        Systems Analysis and Development Student<br>
+        Currently learning <b>Java, HTML, CSS</b>, <b>SQL and Data Structures</b><br>
 
 <h2 align="center">💻 Languages and Tools</h2>
 <p align="center">
