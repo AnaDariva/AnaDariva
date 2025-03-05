@@ -29,7 +29,7 @@
     <a href="https://www.figma.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
     </a>
-<h2 align="center">🌎Socials</h2>
+<h2 align="center">Socials</h2>
 <p align="center">
     <a href="https://www.github.com/AnaDariva" target="_blank" rel="noreferrer">
         <picture>
