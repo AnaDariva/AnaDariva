@@ -9,7 +9,7 @@
         Systems Analysis and Development Student<br>
         Currently learning <b>Java, HTML, CSS</b>, <b>SQL and Data Structures</b><br>
 
-<h2 align="center">💻 Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -29,6 +29,7 @@
     <a href="https://www.figma.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
     </a>
+<h2 align="center">🌎Socials</h2>
 <p align="center">
     <a href="https://www.github.com/AnaDariva" target="_blank" rel="noreferrer">
         <picture>
@@ -48,6 +49,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" height="32" alt="Instagram" />
     </a>
 </p>
+
 
 
 
