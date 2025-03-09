@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 😅</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+AnaDariva's+GitHub!Always+learning+new+technologies">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+AnaDariva's+GitHub!;Always+learning+new+technologies">
 </p>
 
 ---
