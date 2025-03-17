@@ -7,7 +7,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 📍 From **Brazil**  
+- 📍  From **Brazil**  
 - 🎓 **Systems Analysis and Development** student  
 - 🚀 Currently learning **Java, HTML, CSS, SQL, and Data Structures**  
 - 🎯 Passionate about **software development**  
