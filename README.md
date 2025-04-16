@@ -1,4 +1,4 @@
-<h1 align="center">Hey guys! 😅</h1>
+<h1 align="center">Hey guys! I`m Ana😅</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+AnaDariva's+GitHub!;Always+learning+new+technologies">
