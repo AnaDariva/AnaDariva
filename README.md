@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 - 📍  From **Brazil**  
 - 🎓 **Systems Analysis and Development** student  
-- 🚀 Currently learning: Web Development | Software Automation | Software Testing  
+- 🚀 Currently learning: **Web Development | Software Automation | Software Testing**
 - 🎯 Passionate about **Technology** 
 
 ---
