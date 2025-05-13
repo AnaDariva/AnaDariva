@@ -5,7 +5,7 @@
 ### 👩‍💻 About Me
 - 📍  From **Brazil**  
 - 🎓 **Systems Analysis and Development** student  
-- 🚀 Currently learning: **Web Development | Software Automation | DevOps | Software Testing**
+- 🚀 Currently learning: **Web Development | DevOps | Software Testing**
 - 🎯 Passionate about **Technology** 
 
 ---
