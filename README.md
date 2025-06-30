@@ -1,4 +1,4 @@
-<h1 align="center">Be welcome, guys! I`m Ana😅</h1>
+<h1 align="center">Be welcome, guys! </h1>
 
 ---
 
