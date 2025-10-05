@@ -6,7 +6,6 @@
 - 📍  From **Brazil**  
 - 🎓 **Systems Analysis and Development** student  
 - 🚀 Currently learning: **Web Development | Mobile Development | Application Security | Project Management | Computer Vision**
-- 🎯 Passionate about **Technology** 
 
 ---
 
