@@ -1,15 +1,24 @@
-<h1 align="center">Be welcome! </h1>
+<h1 align="center">Be welcome! / Seja bem-vinda(o)!</h1>
+
+<p align="center">
+  <a href="#pt-br">🇧🇷 Português</a> · <a href="#en">🇺🇸 English</a>
+</p>
 
 ---
 
-### 👩‍💻 About Me
-- 📍  From **Brazil**  
+### 👩‍💻 Sobre mim (pt-BR)
+- 📍 Do **Brasil**  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 🚀 Estudando agora: **Desenvolvimento Web | Desenvolvimento Mobile | Segurança de Aplicações | Gestão de Projetos | Visão Computacional**
+
+### 👩‍💻 About Me (en)
+- 📍  From **Brazil** 
 - 🎓 **Systems Analysis and Development** student  
 - 🚀 Currently learning: **Web Development | Mobile Development | Application Security | Project Management | Computer Vision**
 
 ---
 
-### 👩‍💻 Languages & Tools
+### 👩‍💻 Linguagens & Ferramentas / 👩‍💻 Languages & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
@@ -20,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </div>
 
-### 🗄️ Databases
+###  🗄️ Bancos de Dados / 🗄️ Databases
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
@@ -28,7 +37,7 @@
 
 ---
 
-### 🌎 Connect with Me
+### 🌎 Conecte-se comigo / 🌎 Connect with Me
 <div align="left">
   <a href="https://github.com/AnaDariva" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="GitHub"/>
