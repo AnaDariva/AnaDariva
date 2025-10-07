@@ -6,7 +6,7 @@
 
 ---
 
-### 👩‍💻 Sobre mim (pt-BR)
+### 👩‍💻 Sobre mim (🇧🇷)
 - 📍 Do **Brasil**  
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 🚀 Estudando agora: **Desenvolvimento Web | Desenvolvimento Mobile | Segurança de Aplicações | Gestão de Projetos | Visão Computacional**
