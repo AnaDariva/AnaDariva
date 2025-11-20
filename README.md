@@ -33,6 +33,7 @@
     <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   </a>
 </div>
+
 ---
 
 ### 🌎 Conecte-se comigo /  Connect with Me
