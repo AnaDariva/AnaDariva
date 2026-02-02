@@ -9,12 +9,12 @@
 ### 👩‍💻 Sobre mim (<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1e7-1f1f7.png" width="18" alt="BR"/>)
 - 📍 Do **Brasil** 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🚀 Estudando agora: **Desenvolvimento Web | Desenvolvimento Mobile | Segurança de Aplicações | Gestão de Projetos | Visão Computacional**
+- 🚀 Estudando agora: ** Desenvolvimento Mobile | Visão Computacional**
 
 ### 👩‍💻 About Me (<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1fa-1f1f8.png" width="18" alt="US"/>)
 - 📍 From **Brazil** 
 - 🎓 **Systems Analysis and Development** student  
-- 🚀 Currently learning: **Web Development | Mobile Development | Application Security | Project Management | Computer Vision**
+- 🚀 Currently learning: ** Mobile Development | Computer Vision**
 
 
 
