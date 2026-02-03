@@ -9,7 +9,7 @@
 ### 👩‍💻 Sobre mim (<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1e7-1f1f7.png" width="18" alt="BR"/>)
 - 📍 Do **Brasil** 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🚀 Estudando agora: ** Desenvolvimento para dispositivos móveis | Visão Computacional**
+- 🚀 Estudando agora: **Desenvolvimento para dispositivos móveis | Visão Computacional**
 
 ### 👩‍💻 About Me (<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1fa-1f1f8.png" width="18" alt="US"/>)
 - 📍 From **Brazil** 
