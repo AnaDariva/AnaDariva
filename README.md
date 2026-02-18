@@ -1,4 +1,4 @@
-<h1 align="center">Be welcome! / Seja bem-vinda(o)!</h1>
+<h1 align="center">Be welcome! / Seja bem-vindo(a)!</h1>
 
 <p align="center">
   <a href="#pt-br">🇧🇷 Português</a> · <a href="#en">🇺🇸 English</a>
