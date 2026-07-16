@@ -6,15 +6,15 @@
 
 ---
 
-### 👩‍💻 Sobre mim (<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1e7-1f1f7.png" width="18" alt="BR"/>)
+### 👩‍💻 Sobre mim 
 - 📍 Do **Brasil** 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas - UTFPR (<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1e7-1f1f7.png" width="18" alt="BR"/>)** e **Engenharia Informática - IPB (<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1f5-1f1f9.png" width="18" alt="PT"/>)**
-- 🚀 Estudando agora: **Desenvolvimento para dispositivos móveis | Visão Computacional**
+- 🚀 Estudando agora: 
 
 ### 👩‍💻 About Me (<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1fa-1f1f8.png" width="18" alt="US"/>)
 - 📍 From **Brazil** 
-- 🎓 **Systems Analysis and Development** student  
-- 🚀 Currently learning: **Mobile Development | Computer Vision | Machine Learning**
+- 🎓student of **Systems Analysis and Development - UTFPR (<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1e7-1f1f7.png" width="18" alt="BR"/>)** and **Informatics Engineering - IPB (<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1f5-1f1f9.png" width="18" alt="PT"/>)** 
+- 🚀 Currently learning: 
 
 
 
